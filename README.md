@@ -1,4 +1,4 @@
-                                                   Blood Group Identification System
+                                   Blood Group Identification System
 
 
 Overview:
@@ -35,7 +35,7 @@ Prerequisites:
             Virtual environment (optional but recommended)
       Steps:
      1.  Clone this repository:
-            git clone https://github.com/your-repo/blood-group-identification.git
+            git clone https://github.com/sumathi1205/Infosys-project.git
             cd blood-group-identification
 
      2.  Set up a virtual environment (optional but recommended):
@@ -87,6 +87,12 @@ Routes:
                     /service	                            Access to the blood group analyzer.
                     /login	                              User login page.
                     /register	                            User registration page.
+                    
+
+Directory structure:
+
+![image](https://github.com/user-attachments/assets/07bde7d0-3f9a-49f7-9054-42b2d49ad744)
+
 
 
 Advantages:
@@ -94,6 +100,19 @@ Advantages:
       Time-Saving: Processes results within seconds, critical during emergencies.
       User-Friendly Interface: Simplifies usage for medical professionals and individuals.
       Reliable Results: Leverages advanced algorithms for high accuracy.
+
+outputs:
+
+![image](https://github.com/user-attachments/assets/6d253982-bc97-4bcc-af34-2c077f8ff3ca)
+
+![image](https://github.com/user-attachments/assets/4fd5ca0d-5e6a-4c93-89d3-c9a36ec8481c)
+
+![image](https://github.com/user-attachments/assets/ab386a5c-d0d8-48be-ac99-ab2176d3f5a9)
+
+![image](https://github.com/user-attachments/assets/589edaf4-0b65-443e-94fc-cff61bdacdd7)
+
+
+
 
       
 Contributors:
