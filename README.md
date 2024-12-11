@@ -26,6 +26,8 @@ Tech Stack:
       Database:
             SQLite
 
+https://drive.google.com/file/d/16CnVzOYe8sU0f0He_mHWDuvKCsWJNipR/view?usp=sharing
+
 Installation:
 
 Prerequisites:
